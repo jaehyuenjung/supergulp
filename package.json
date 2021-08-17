@@ -23,6 +23,7 @@
         "@babel/register": "^7.15.3"
     },
     "devDependencies": {
-        "gulp": "^4.0.2"
+        "gulp": "^4.0.2",
+        "gulp-pug": "^5.0.0"
     }
 }
