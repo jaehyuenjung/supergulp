@@ -25,12 +25,15 @@
         "@babel/core": "^7.15.0",
         "@babel/preset-env": "^7.15.0",
         "@babel/register": "^7.15.3",
+        "babelify": "^10.0.0",
         "del": "^6.0.0",
         "gulp": "^4.0.2",
         "gulp-autoprefixer": "^8.0.0",
+        "gulp-bro": "^2.0.0",
         "gulp-csso": "^4.0.1",
         "gulp-pug": "^5.0.0",
         "gulp-sass": "^5.0.0",
-        "sass": "^1.38.0"
+        "sass": "^1.38.0",
+        "uglifyify": "^5.0.2"
     }
 }
